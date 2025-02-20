@@ -1,19 +1,89 @@
-<h1 align="center">Hi, I'm Rabah Iaklioune</h1>
-<h3 align="center">A Software&&Full-Stack developer aiming for the most efficient way to code and solve problems.</h3>
+<h1 align="center" style="opacity: 0; animation: fadeIn 1s ease-in forwards;">
+  👋 Hi, I'm Rabah Iaklioune<br>
+  💻 Software & Full-Stack Developer | 🚀 Building Efficient Solutions
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riakvolk&label=Profile%20views&color=0e75b6&style=flat" alt="riakvolk" /> </p>
-
-- 🌱 I’m currently learning **java, c#, javascript, react, and sql**
-
-- 💬 Ask me about **java**
-
-- 📫 How to reach me **rabahiaklioune@proton.me**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rabahiaklioune_1812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rabahiaklioune_1812" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rabahiaklioune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rabahiaklioune" height="30" width="40" /></a>
+<p align="center" style="opacity: 0; animation: fadeIn 1s ease-in 0.3s forwards;"> 
+  <img src="https://komarev.com/ghpvc/?username=riakvolk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+
+<div align="center" style="opacity: 0; animation: fadeIn 1s ease-in 0.6s forwards;">
+  <h3>🌱 Currently Learning</h3>
+  <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; animation: scaleIn 0.8s ease-out 0.9s forwards;">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  </div>
+
+  <h3 style="opacity: 0; animation: fadeIn 1s ease-in 1.2s forwards;">📫 How to Reach Me</h3>
+  <a href="mailto:rabahiaklioune@proton.me" style="opacity: 0; animation: fadeIn 1s ease-in 1.5s forwards;">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+  </a>
+</div>
+
+---
+
+<div align="center" style="opacity: 0; animation: fadeIn 1s ease-in 1.8s forwards;">
+  <h3>🔗 Connect with Me</h3>
+  <a href="https://instagram.com/rabahiaklioune_1812" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" style="animation: scaleIn 0.6s ease-out 2.1s forwards;">
+  </a>
+  <a href="https://www.hackerrank.com/rabahiaklioune" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" style="animation: scaleIn 0.6s ease-out 2.3s forwards;">
+  </a>
+</div>
+
+---
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; margin: 20px 0; opacity: 0; animation: fadeIn 1s ease-in 2.5s forwards;">
+  <div style="text-align: center;">
+    <h3>🛠️ Core</h3>
+    <div style="display: flex; gap: 15px; justify-content: center;">
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="animation: scaleIn 0.5s ease-out 2.7s forwards;">
+      </a>
+      <a href="https://www.w3schools.com/cs/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="animation: scaleIn 0.5s ease-out 2.8s forwards;">
+      </a>
+    </div>
+  </div>
+
+  <div style="text-align: center;">
+    <h3>🌐 Web</h3>
+    <div style="display: flex; gap: 15px; justify-content: center;">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="animation: scaleIn 0.5s ease-out 2.9s forwards;">
+      </a>
+      <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" style="animation: scaleIn 0.5s ease-out 3.0s forwards;">
+      </a>
+    </div>
+  </div>
+
+  <div style="text-align: center;">
+    <h3>🗄️ Databases</h3>
+    <div style="display: flex; gap: 15px; justify-content: center;">
+      <a href="https://mariadb.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="50" height="50" style="animation: scaleIn 0.5s ease-out 3.1s forwards;">
+      </a>
+      <a href="https://www.sqlite.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50" style="animation: scaleIn 0.5s ease-out 3.2s forwards;">
+      </a>
+    </div>
+  </div>
+</div>
+
+---
+
+<div align="center" style="opacity: 0; animation: fadeIn 1s ease-in 3.4s forwards;">
+  <h3>📈 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=riakvolk&show_icons=true&theme=dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riakvolk&theme=dark">
+  
+  ---
+  
+  <p style="opacity: 0; animation: fadeIn 1s ease-in 3.6s forwards;">⚡ <strong>Fun fact:</strong> I automate everything I can!</p>
+</div>
