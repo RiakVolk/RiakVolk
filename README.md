@@ -9,11 +9,13 @@
 
 ###
 
+---
 <img align="right" height="150" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif"  />
 
 ###
 
 <div align="left">
+  <h3>🛠️ Software and Tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -32,6 +34,7 @@
 ###
 
 <div align="left">
+  <h3>🔗 Connect with Me</h3>
   <a href="https://instagram.com/rabahiaklioune_1812" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -47,3 +50,6 @@
 <img src="https://github.com/RiakVolk/RiakVolk/blob/main/output/snake.svg" alt="Snake animation" />
 
 ###
+  <div align="center">
+    <p>⚡ <strong>Fun fact:</strong> I automate everything I can!</p>
+  </div>
