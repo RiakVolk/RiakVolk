@@ -54,5 +54,5 @@
     <p>⚡ <strong>Fun fact:</strong> I automate everything I can!</p>
   </div>
   <div align="center">
-    <p><strong>Website:</strong> <a href="https://riakvolk.kesug.com"></a> </p>
+    <p><strong>Website:</strong> <a href="https://riakvolk.kesug.com">Link</a> </p>
   </div>
