@@ -20,7 +20,7 @@ jobs:
           filename: generated/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          base: header, activity, repositories
+          base: activity, repositories
 
           plugin_languages: yes
           plugin_languages_sections: most-used
