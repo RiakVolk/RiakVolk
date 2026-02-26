@@ -1,65 +1,46 @@
-<h1 align="center">Rabah Iaklioune</h1>
-<p align="center">
-  Software & Full-Stack Developer focused on efficient systems, clean architecture, and practical tooling.
-</p>
+# 🏄‍♂️ Rabah Iaklioune
 
-<p align="center">
-  <a href="https://riakvolk.kesug.com">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&color=1f6feb&style=for-the-badge" alt="Website"/>
+**`Digital Craftsman`**
+
+I'm a software engineer, Linux distro hopper, and full-stack developer building efficient solutions at [RiakVolk][website].
+
+<p align="left">
+  <a href="https://github.com/RiakVolk?tab=followers">
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/RiakVolk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RiakVolk?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RiakVolk?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
   <a href="https://www.hackerrank.com/rabahiaklioune">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2ea043&style=for-the-badge" alt="HackerRank"/>
+    <img alt="hackerrank" title="HackerRank profile" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="https://instagram.com/rabahiaklioune_1812">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=e4405f&style=for-the-badge" alt="Instagram"/>
+    <img alt="instagram" title="Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
-## About
+---
 
-- Building full-stack and automation-focused solutions.
-- Prefer CLI-driven workflows, reproducible tooling, and maintainable codebases.
-- Always optimizing for reliability, speed, and developer experience.
+### 🧰 Languages and Tools
 
-## GitHub Metrics
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%2368217A.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/arch_linux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/RiakVolk/RiakVolk/main/generated/stats.svg"
-    width="100%"
-    alt="GitHub Metrics"
-  />
-</div>
+#
 
-## Tech Stack
+### 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="38" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL"/>
-</p>
+<img src="https://raw.githubusercontent.com/RiakVolk/RiakVolk/main/generated/stats.svg" alt="GitHub Metrics" />
 
-## Development Environment
+<img src="https://github.com/RiakVolk/RiakVolk/blob/main/output/snake.svg" alt="Contribution Snake Animation" />
 
-| Component | Tooling |
-| --- | --- |
-| OS | Arch Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="20" alt="Arch Linux"/> |
-| WM | Hyprland |
-| Editor | Neovim (LazyVim) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="20" alt="Neovim"/> |
-| Shell | Bash <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20" alt="Bash"/> |
-| Workflow | Git, LSP, CLI-driven <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="Git"/> |
-
-## Contribution Graph
-
-<div align="center">
-  <img
-    src="https://github.com/RiakVolk/RiakVolk/blob/main/output/snake.svg"
-    alt="Contribution Snake Animation"
-  />
-</div>
-
-<p align="center"><strong>⚡ I automate everything I can.</strong></p>
+[website]: https://riakvolk.kesug.com
