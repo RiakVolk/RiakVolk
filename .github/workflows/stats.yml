@@ -1,0 +1,30 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # update every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate stats SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: generated/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: Africa/Algiers
+
+      - name: Commit stats
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "update stats"
