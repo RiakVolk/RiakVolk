@@ -25,7 +25,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: output/snake.svg?palette=github-dark
+          outputs: output/snake.svg?palette=github-dark&color_snake=%2358a6ff&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
 
       - name: Commit and push snake.svg
         uses: EndBug/add-and-commit@v9
