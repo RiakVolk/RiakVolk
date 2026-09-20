@@ -14,7 +14,7 @@ I'm a software engineer, Linux distro hopper, and full-stack developer building 
   <a href="https://www.hackerrank.com/rabahiaklioune">
     <img alt="hackerrank" title="HackerRank profile" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/rabahiaklioune_1812">
+  <a href="https://instagram.com/rabahiaklioune1812">
     <img alt="instagram" title="Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
