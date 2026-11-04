@@ -17,6 +17,9 @@ I'm a software engineer, Linux distro hopper, and full-stack developer building 
   <a href="https://instagram.com/rabahiaklioune1812">
     <img alt="instagram" title="Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://signal.me/#eu/dDg4_uDCEeE-4C1TdMpmKRUebwLvIVPxScwmbkt12-LRI2wnCGBHhoOIWeLGRVyi">
+  <img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal"/>
+</a>
 </p>
 
 ---
